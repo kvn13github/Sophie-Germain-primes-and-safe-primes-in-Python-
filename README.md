@@ -1,13 +1,10 @@
 # Sophie-Germain-primes-and-safe-primes-in-Python-
 This code generates Sophie Germain primes and safe primes up to 10 digits
 
-![bandicam 2023-03-11 12-59-17-066](https://user-images.githubusercontent.com/113304088/224487106-184d3fc0-02bb-49c1-bfbf-887e54359530.jpg)
+![bandicam 2023-03-11 12-59-17-066](https://user-images.githubusercontent.com/113304088/224487690-ea27cc79-d707-4a8c-92a5-0cfffbe1d60a.png)
 
 
-
-
-
-The second scriptgenerates Sophie Germain primes and safe primes up to 4 digits and plots a graph
+The second script generates Sophie Germain primes and safe primes up to 4 digits and plots a graph
 
 
 ![image](https://user-images.githubusercontent.com/113304088/224487140-10c3d078-4931-475c-920b-06c201dc6140.png)
